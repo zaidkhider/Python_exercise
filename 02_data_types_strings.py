@@ -50,7 +50,7 @@ print (text_example.lower())
 print (text_example.upper())
 
 #Capitalize
-print(text_example.capitalize())
+print(text_example.capitalize()
 print ('please give us a string to print')
 user_input = input()
 print (user_input)
